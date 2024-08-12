@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Ansari</h1>
-<h3 align="center">A passionate Backend & Devops Engineer from India</h3>
+<h3 align="center">A passionate Linux Admin & Devops Engineer from India</h3>
 
 - 🔭 I’m currently working on [CI CD with DevSecOps](https://github.com/MohdAnas768/)
 
